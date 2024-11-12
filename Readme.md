@@ -25,3 +25,13 @@ The Weekly Mileage Tracker is a React Native app that connects to Strava to fetc
 
 - **Expo Permissions**: Ensure notification permissions are granted.
 - **Strava Rate Limits**: Strava imposes API rate limits, so avoid excessive requests.
+
+## Planned Features and Improvements
+
+- **Data Visualization with Graphs**: Add graphs to show mileage trends over weeks, months, and even longer durations, enabling users to see how their activity changes over time.
+- **Enhanced UI/UX**: Improve the UI design to be visually appealing and user-friendly, including color themes, layout adjustments, and animations.
+- **Activity Filtering and Sorting**: Allow users to filter and sort activities by type (cycling, rowing, etc.), distance, or date, providing a more customizable experience.
+- **Milestone Tracking**: Add notifications or badges for milestones, such as reaching specific mileage goals or setting personal records.
+- **Goal Setting and Tracking**: Implement features for setting mileage goals (e.g., monthly or yearly) and tracking progress toward those goals.
+
+These planned features aim to make the app more engaging and useful for tracking and visualizing fitness progress. Let us know if you have additional ideas for enhancing the app!
